@@ -5,9 +5,9 @@ edition = "2021"
 authors = ["Ryan Kopf <ryan@ryankopf.com>"] # List of crate authors
 description = "A way to embed Rust into HTML code and use it wherever you'd like."
 license = "MIT"
-repository = "https://github.com/tracks-rs/hust"
-homepage = "https://github.com/tracks-rs/hust"
-documentation = "https://github.com/tracks-rs/hust"
+repository = "https://github.com/tracks-rs/hust-macro"
+homepage = "https://github.com/tracks-rs/hust-macro"
+documentation = "https://github.com/tracks-rs/hust-macro"
 keywords = ["web-framework", "rust", "rails-inspired", "erb"] # Keywords to find your crate
 categories = ["web-programming", "rust-patterns", "parser-implementations"] # Categories from crates.io
 
